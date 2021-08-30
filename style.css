@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: darkgrey;
+}
+
+header {
+    background-color:black;
+    text-align: center;
+    color:Gold;
+}
+th, td {
+    padding-top: 35px;
+    font-size: 20px;
+    padding-left:50px;
+    padding-right: 50px;
+    color: gold;
+    background-color: black;
+}
+h1{
+font-size: 90px;
+}
+nav {
+    align-items: space-evenly;
+    justify-content: center;
+    text-align: center;
+}
+table {margin: 20px auto;
+width: 80%;
+display: flex;
+justify-content: space-evenly
+}
+table{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
